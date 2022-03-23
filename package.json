@@ -1,0 +1,30 @@
+{
+    "name": "react-native-platescanner",
+    "title": "React Native platescanner",
+    "version": "2.2.0",
+    "description": "Open ALRP component for React Native",
+    "main": "index.js",
+    "scripts": {
+        "publish": "npx np --no-tests --no-yarn",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mamatasahoo/react-native-platescanner.git",
+        "baseUrl": "https://github.com/mamatasahoo/react-native-platescanner"
+    },
+    "keywords": [
+        "react-native"
+    ],
+    "homepage": "https://github.com/mamatasahoo/react-native-platescanner",
+    "author": {
+        "name": "Evan Rosenfeld, CarDash <www.cardash.com>"
+    },
+    "license": "MIT",
+    "licenseFilename": "LICENSE",
+    "readmeFilename": "README.md",
+    "peerDependencies": {
+        "react": "^16.8.3",
+        "react-native": "^0.60.0"
+    }
+}
